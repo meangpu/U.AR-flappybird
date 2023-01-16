@@ -12,6 +12,10 @@ EditorBuildSettings:
     path: Assets/Scenes/fullBgAR.unity
     guid: 27f29613df2e69647b454b22bd6b66c1
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7ffb3561d094dcc488ea9584168bac2a, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 155245995f266b044a26dac8caf1b4d2, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: df287e3ac4210904799c782f7234dbb2, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5e7447931a751774ca989b136dd81c81, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a71f172daf6178e4d9660ed5966eb0c5, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 94207be6aed54614784b0512000da09a, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a471979e3a946e741b529da60db01570, type: 2}
